@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to DeLux Tech!
 
-You can use the [editor on GitHub](https://github.com/cccoder123/DeLuxTechNoloGies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+LuxOs is still being built...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
